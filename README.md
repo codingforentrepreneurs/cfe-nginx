@@ -13,3 +13,6 @@ Then open your browser to http://localhost:8381 with:
 ```
 open http://localhost:8381
 ```
+
+## Homepage Screenshot
+![Example Homepage Image](./repo-assets/homepage-screenshot.png)
