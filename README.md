@@ -7,7 +7,7 @@ We'll use the [public container](https://hub.docker.com/r/codingforentrepreneurs
 ## Usage
 
 ```
-docker run -d -p 8381:80 codingforentrepreneurs/cfe-nginx
+docker run -d -p 8381:80 codingforentrepreneurs/cfe-nginx:latest
 ```
 Then open your browser to http://localhost:8381 with:
 ```
