@@ -1,0 +1,7 @@
+version: "3"
+services:
+  cfe_nginx:
+    restart: always
+    image: codingforentrepreneurs/cfe-nginx
+    ports:
+      - "80:80"
