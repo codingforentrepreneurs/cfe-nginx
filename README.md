@@ -3,6 +3,7 @@ This is a simple modified nginx image to serve the static files in the html dire
 
 We'll use the [public container](https://hub.docker.com/r/codingforentrepreneurs/cfe-nginx) in various tutorials and projects on [Coding for Entrepreneurs](https://cfe.sh).
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/template/JEeFjP?referralCode=A22mwd)
 
 ## Usage
 
